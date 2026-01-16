@@ -1,0 +1,11 @@
+# Secrets
+.env
+*_API_KEY.txt
+
+# Virtual environment & cache
+venv/
+__pycache__/
+
+# Scratch / notes
+Rough_Codes/
+*.txt
